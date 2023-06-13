@@ -1,0 +1,22 @@
+This report for PyCity Schools includes an analysis of information about each of the 15 high schools in the district
+and their student bodies' test scores. The highest performing schools, lowest performing schools, and relationships 
+between grade level, school spending, school size, school type, and students' passing rates for math and reading
+are explored.
+
+Based on the data, one observable trend the negative correlation between overall test passing rates and school spending 
+per student, meaning that as school spending per student increases, overall passing rates decrease. This can be 
+exemplified by the Scores by School Spending table which shows that the percentage of students who 
+passed both math and reading is at 90% for schools that spent less that $585 per student, while the per of students 
+who passed both math and reading is at 54% for schools that spent between $645 and $680 per student.
+
+This suggests that spending more money per student would not improve test scores for this district.
+
+Another observable trend is the significant drop in the overall test passing rates when school size exceeds 2,000
+students. As seen in the Size Summary table, the percentage of students passing math and reading tests drops from
+90% to 58% between medium school size (1000-2000 students) and large school size (2000-5000 students).
+
+This suggests that school size could impact the academic success of its student body.
+
+Although beyond the scope of this analysis, further questioning into the relationship between other factors related
+to school size and student test scores (e.g. teacher:student ratio, existence of academic support programs) could 
+inform PyCity Schools' development.
